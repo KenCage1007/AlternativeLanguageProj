@@ -1,0 +1,3 @@
+/Users/queencage/AlternativeLanguageProj/cmake-build-debug/CMakeFiles/AlternativeLanguageProj.dir
+/Users/queencage/AlternativeLanguageProj/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/queencage/AlternativeLanguageProj/cmake-build-debug/CMakeFiles/rebuild_cache.dir

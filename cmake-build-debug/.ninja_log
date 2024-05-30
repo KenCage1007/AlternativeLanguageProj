@@ -1,0 +1,14 @@
+# ninja log v6
+1	697	1717049527513713435	CMakeFiles/AlternativeLanguageProj.dir/Cell.cpp.o	a15a18fdfe379f74
+19	687	1717049979817963655	CMakeFiles/AlternativeLanguageProj.dir/Main.cpp.o	6d6a5093d874001e
+18	953	1717049979817142233	CMakeFiles/AlternativeLanguageProj.dir/Cell.cpp.o	a15a18fdfe379f74
+9	702	1717050379798589897	CMakeFiles/AlternativeLanguageProj.dir/Main.cpp.o	6d6a5093d874001e
+9	777	1717050379798408229	CMakeFiles/AlternativeLanguageProj.dir/CellData.cpp.o	261e8efb35d57250
+8	1013	1717050379797942518	CMakeFiles/AlternativeLanguageProj.dir/Cell.cpp.o	a15a18fdfe379f74
+1013	1563	1717050380803005052	AlternativeLanguageProj	57a708a1c84b2c31
+21	725	1717050869910811087	CMakeFiles/AlternativeLanguageProj.dir/Main.cpp.o	6d6a5093d874001e
+21	680	1717051290459420955	CMakeFiles/AlternativeLanguageProj.dir/Main.cpp.o	6d6a5093d874001e
+20	1015	1717051290458788618	CMakeFiles/AlternativeLanguageProj.dir/Cell.cpp.o	a15a18fdfe379f74
+12	970	1717051370172815095	CMakeFiles/AlternativeLanguageProj.dir/Cell.cpp.o	a15a18fdfe379f74
+18	718	1717051578033416790	CMakeFiles/AlternativeLanguageProj.dir/CellData.cpp.o	261e8efb35d57250
+718	880	1717051578732821417	AlternativeLanguageProj	57a708a1c84b2c31

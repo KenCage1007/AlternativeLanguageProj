@@ -1,0 +1,14 @@
+//
+// Created by Queen Cage on 5/29/24.
+//
+
+#ifndef ALTERNATIVELANGUAGEPROJ_MAIN_H
+#define ALTERNATIVELANGUAGEPROJ_MAIN_H
+
+
+class Main {
+
+};
+
+
+#endif //ALTERNATIVELANGUAGEPROJ_MAIN_H
